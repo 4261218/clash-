@@ -194,6 +194,7 @@ proxy-groups:
   type: select
   proxies:
     - '🔑 手动选择'
+    - '♻️ 自动选择'
     - ⚡️IPLC/IEPL
     - 🎠Trojan
     - 🇭🇰香港节点
@@ -337,6 +338,7 @@ proxy-groups:
   type: select
   proxies:
     - '🚀 节点选择'
+    - '♻️ 自动选择'
     - '🔑 手动选择'
     - ⚡️IPLC/IEPL
     - 🎠Trojan
@@ -354,6 +356,7 @@ proxy-groups:
   proxies:
     - DIRECT
     - '🚀 节点选择'
+    - '♻️ 自动选择'
     - '🔑 手动选择'
     - ⚡️IPLC/IEPL
     - 🎠Trojan
@@ -362,6 +365,7 @@ proxy-groups:
   type: select
   proxies:
     - '🚀 节点选择'
+    - '♻️ 自动选择'
     - '🔑 手动选择'
     - ⚡️IPLC/IEPL
     - 🎠Trojan
@@ -378,6 +382,7 @@ proxy-groups:
   type: select
   proxies:
     - '🚀 节点选择'
+    - '♻️ 自动选择'
     - '🔑 手动选择'
     - ⚡️IPLC/IEPL
     - 🎠Trojan
@@ -410,6 +415,7 @@ proxy-groups:
   type: select
   proxies:
     - '🚀 节点选择'
+    - '♻️ 自动选择'
     - '🔑 手动选择'
     - ⚡️IPLC/IEPL
     - 🎠Trojan
@@ -426,6 +432,7 @@ proxy-groups:
   type: select
   proxies:
     - '🚀 节点选择'
+    - '♻️ 自动选择'
     - '🔑 手动选择'
     - ⚡️IPLC/IEPL
     - 🎠Trojan
@@ -459,6 +466,7 @@ proxy-groups:
   proxies:
     - DIRECT
     - '🚀 节点选择'
+    - '♻️ 自动选择'
     - '🔑 手动选择'
     - ⚡️IPLC/IEPL
     - 🎠Trojan
@@ -468,6 +476,7 @@ proxy-groups:
   proxies:
     - DIRECT
     - '🚀 节点选择'
+    - '♻️ 自动选择'
     - '🔑 手动选择'
     - ⚡️IPLC/IEPL
     - 🎠Trojan
@@ -500,6 +509,7 @@ proxy-groups:
   type: select
   proxies:
     - '🚀 节点选择'
+    - '♻️ 自动选择'
     - '🔑 手动选择'
     - ⚡️IPLC/IEPL
     - 🎠Trojan
@@ -510,6 +520,7 @@ proxy-groups:
   proxies:
     - 🎠Trojan
     - ⚡️IPLC/IEPL
+    - '♻️ 自动选择'
     - '🔑 手动选择'
   url: 'http://www.gstatic.com/generate_204'
   interval: 300,,50
